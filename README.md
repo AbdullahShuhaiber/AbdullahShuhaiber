@@ -4,7 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahshuhaiber&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahshuhaiber" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/abdullahahed33" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/abdullahahed33?logo=twitter&style=for-the-badge" alt="https://twitter.com/abdullahahed33" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullah-shuhaiber-767942276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn - Abdullah Shuhaiber" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **Track Back**
 
